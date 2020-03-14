@@ -18,6 +18,9 @@ import { HistoriaVidaVideoComponent } from './components/historiasVida/historia-
 import { EditHistoriaVidaVideoComponent } from './components/historiasVida/historia-vida-video/historiaVidaVideo/edit-historia-vida-video/edit-historia-vida-video.component';
 import { AddHistoriaVidaVideoComponent } from './components/historiasVida/historia-vida-video/historiaVidaVideo/add-historia-vida-video/add-historia-vida-video.component';
 import { ShowHistoriaVidaVideoComponent } from './components/historiasVida/historia-vida-video/historiaVidaVideo/show-historia-vida-video/show-historia-vida-video.component';
+import { BotonMisionComponent } from './components/boton-mision/boton-mision.component';
+import {BotonVisionComponent} from './components/boton-vision/boton-vision.component'
+import { BotonObjetivosComponent } from './components/boton-objetivos/boton-objetivos.component';
 
 @NgModule({
   declarations: [
@@ -33,7 +36,10 @@ import { ShowHistoriaVidaVideoComponent } from './components/historiasVida/histo
     HistoriaVidaVideoComponent,
     EditHistoriaVidaVideoComponent,
     AddHistoriaVidaVideoComponent,
-    ShowHistoriaVidaVideoComponent
+    ShowHistoriaVidaVideoComponent,
+    BotonMisionComponent,
+    BotonVisionComponent,
+    BotonObjetivosComponent
   ],
   imports: [
     BrowserModule,
