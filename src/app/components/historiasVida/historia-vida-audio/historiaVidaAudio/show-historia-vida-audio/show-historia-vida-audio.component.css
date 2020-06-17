@@ -81,7 +81,6 @@ source {
 }
 
 .new1 {
-    /*color: white;*/
     height: 0px;
     border: 2px dashed;
 }
@@ -89,7 +88,6 @@ source {
 .options {
     float: right;
     margin-top: -60px;
-    /* margin-right: auto;*/
 }
 
 @media screen and (max-width: 800px) {
