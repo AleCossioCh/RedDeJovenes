@@ -34,7 +34,7 @@
         "ngx-audio-player": "^9.0.7",
         "ngx-youtube-player": "^7.1.5",
         "rxjs": "^6.5.5",
-        "three": "^0.115.0",
+        "three": "^0.125.0",
         "three-obj-mtl-loader": "^1.0.3",
         "tslib": "^1.13.0",
         "zone.js": "^0.10.3"
